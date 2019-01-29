@@ -22,4 +22,4 @@ Brainstorming of one-shot DS/ML/AI workshops
 * SnapLogic Block Recommendation
 * Face Recognition
 * [AWS DeepRacer](https://aws.amazon.com/deepracer/)
-
+* Social Media Sentiment Classification in Thai
